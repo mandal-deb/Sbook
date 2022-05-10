@@ -1,0 +1,86 @@
+{
+  "users": [
+    {
+      "email": "debsona@hh",
+      "username": "deb12345",
+      "password": "123457",
+      "id": 1
+    },
+    {
+      "email": "deb31@gg",
+      "username": "hgfhhh",
+      "password": "2345678",
+      "id": 2
+    },
+    {
+      "email": "puspita@123",
+      "username": "puspita",
+      "password": "123456789",
+      "id": 3
+    }
+  ],
+  "posts": [
+    {
+      "username": "deb12345",
+      "text": "text",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/sbook-3d6d1.appspot.com/o/images%2F1652142027226?alt=media&token=c78fbc0e-ce6e-45ac-8ee1-bee7421d2cd3",
+      "likes": [],
+      "Comments": [],
+      "id": 1
+    },
+    {
+      "username": "deb12345",
+      "text": "beautifull sunset",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/sbook-3d6d1.appspot.com/o/images%2F1652143071186?alt=media&token=abe48994-516e-409f-820a-497a06dc6496",
+      "likes": [],
+      "Comments": [],
+      "id": 2
+    },
+    {
+      "username": "deb12345",
+      "text": "hi guys, just chilling ",
+      "imageURL": "",
+      "likes": [
+        1
+      ],
+      "Comments": [
+        {
+          "username": "deb12345",
+          "comment": "hii"
+        },
+        {
+          "username": "deb12345",
+          "comment": "hii"
+        },
+        {
+          "username": "deb12345",
+          "comment": "wow great"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "username": "deb12345",
+      "text": "hey there ..",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/sbook-3d6d1.appspot.com/o/images%2F1652183048285?alt=media&token=dae907c3-c401-4945-9480-2b0c6984ca3d",
+      "likes": [],
+      "Comments": [],
+      "id": 4
+    },
+    {
+      "username": "puspita",
+      "text": "hey there",
+      "imageURL": "",
+      "likes": [
+        1
+      ],
+      "Comments": [
+        {
+          "username": "deb12345",
+          "comment": "what'up??"
+        }
+      ],
+      "id": 5
+    }
+  ]
+}
